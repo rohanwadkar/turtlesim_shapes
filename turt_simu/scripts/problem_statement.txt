@@ -1,0 +1,5 @@
+ -  write a code to draw triangle-rectangle-circle instead of using terminal input, create  a custom service(srv) 
+ - which has int datatype as request and String datatype as response
+ - string will correspond to shape
+ 
+ TIP - You can use the draw_shapes.py file to import it as module to use the functions of the shapes.
